@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to the M-DIVE Data Science Curriculum 
 
-You can use the [editor on GitHub](https://github.com/msamawi/M-DIVE_Development_Site/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The goal of PMI Data Science Curriculum is to provide additional skills building support to M-DIVE users, including individual in-country and PMI HQ  team members......etc. etc.
 
 ### Markdown
 
