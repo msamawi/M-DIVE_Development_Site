@@ -4,9 +4,13 @@ The goal of PMI Data Science Curriculum is to provide additional skills building
 
 ### Data Science Curriculum Modules
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Modulues will facilitate the use of data and data related processes across 5 main categories
 
 ```markdown
-Syntax highlighted code block
+1.  Data Management
+2.  Data Analysis
+3.  Data Modeling
+4.  In Country Data Processes
+5.  Miscellaneous Resources
 
 
